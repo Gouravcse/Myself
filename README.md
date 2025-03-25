@@ -1,2 +1,3 @@
 # Myself
-This repo is useless
+This repo is useless.
+This contian nothing.
